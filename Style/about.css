@@ -1,0 +1,48 @@
+body {
+  background-color: white;
+}
+
+div#video {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+div#weprovide {
+  font-size: 50px;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transform: translate(0%, 40%);
+          transform: translate(0%, 40%);
+  text-shadow: 2px 2px 2px #013159;
+}
+
+div button#buttons {
+  background-color: #013159;
+}
+
+div#brand {
+  color: #013159;
+}
+
+#textbrand {
+  color: #ff7200;
+}
+
+#carouselcontrols {
+  background-color: #013159;
+}
+
+#dedicateddoctors {
+  background-color: #013159;
+}
+
+#dedicateddoctors:hover {
+  background: #ff7200;
+}
+
+#login {
+  color: #013159;
+}
+/*# sourceMappingURL=about.css.map */

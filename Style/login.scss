@@ -1,0 +1,32 @@
+$myfont: lcd;
+$mybrandcolor1: #013159;
+$mybrandcolor2:#ff7200;
+
+body {
+    background-color: white;
+}
+
+div button#buttons {
+    background-color: $mybrandcolor1;
+}
+
+div#brand {
+    color: $mybrandcolor1;
+}
+
+#textbrand {
+    color: $mybrandcolor2;
+}
+
+#carouselcontrols {
+    background-color: $mybrandcolor1;
+}
+
+#beloved {
+    background-color: $mybrandcolor1;
+    color: $mybrandcolor2;
+}
+
+#login {
+    color: $mybrandcolor1;
+}

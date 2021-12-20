@@ -1,0 +1,82 @@
+$myfont: lcd;
+$mybrandcolor1: #013159;
+$mybrandcolor2:#ff7200;
+
+body {
+    background-color: white;
+}
+
+div#video {
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    
+}
+
+div#weprovide {
+    font-size: 50px;
+    transform: scale(1);
+    transform: translate(0%, 40%);
+    text-shadow: 2px 2px 2px $mybrandcolor1;
+}
+
+div button#buttons {
+    background-color: $mybrandcolor1;
+}
+
+div#cards {
+    color: $mybrandcolor2;
+    border: 1px solid $mybrandcolor2;
+}
+
+div#cards:hover {
+    background-color: $mybrandcolor1;
+    color: white;
+    transition: 1s ease-in;
+    transform: scale(1.1, 1.0) !important;
+    border: none;
+}
+
+#textbrand {
+    color: $mybrandcolor2;
+}
+
+#carouselcontrols {
+    background-color: $mybrandcolor1;
+}
+
+div#brand {
+    color: $mybrandcolor1;
+}
+
+#cardhover:hover {
+    background: $mybrandcolor2;
+    color: white;
+    transition: .5s ease-in;
+}
+
+#carouselcontrols {
+    background-color: $mybrandcolor1;
+}
+
+#dedicateddoctors {
+    background-color: $mybrandcolor1;
+}
+
+#dedicateddoctors:hover {
+    background: $mybrandcolor2;
+}
+
+#images {
+    width: 15px;
+}
+
+#admin {
+    font-size: 50%;
+    color: $mybrandcolor2;
+}
+
+#login {
+    color: $mybrandcolor1;
+}

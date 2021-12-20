@@ -1,0 +1,83 @@
+body {
+  background-color: white;
+}
+
+div#video {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+div#weprovide {
+  font-size: 50px;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transform: translate(0%, 40%);
+          transform: translate(0%, 40%);
+  text-shadow: 2px 2px 2px #013159;
+}
+
+div button#buttons {
+  background-color: #013159;
+}
+
+div#cards {
+  color: #ff7200;
+  border: 1px solid #ff7200;
+}
+
+div#cards:hover {
+  background-color: #013159;
+  color: white;
+  -webkit-transition: 1s ease-in;
+  transition: 1s ease-in;
+  -webkit-transform: scale(1.1, 1) !important;
+          transform: scale(1.1, 1) !important;
+  border: none;
+}
+
+#textbrand {
+  color: #ff7200;
+}
+
+#carouselcontrols {
+  background-color: #013159;
+}
+
+div#brand {
+  color: #013159;
+}
+
+#cardhover:hover {
+  background: #ff7200;
+  color: white;
+  -webkit-transition: .5s ease-in;
+  transition: .5s ease-in;
+}
+
+#carouselcontrols {
+  background-color: #013159;
+}
+
+#dedicateddoctors {
+  background-color: #013159;
+}
+
+#dedicateddoctors:hover {
+  background: #ff7200;
+}
+
+#images {
+  width: 15px;
+}
+
+#admin {
+  font-size: 50%;
+  color: #ff7200;
+}
+
+#login {
+  color: #013159;
+}
+/*# sourceMappingURL=index.css.map */

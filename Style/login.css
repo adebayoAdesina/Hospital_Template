@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+}
+
+div button#buttons {
+  background-color: #013159;
+}
+
+div#brand {
+  color: #013159;
+}
+
+#textbrand {
+  color: #ff7200;
+}
+
+#carouselcontrols {
+  background-color: #013159;
+}
+
+#beloved {
+  background-color: #013159;
+  color: #ff7200;
+}
+
+#login {
+  color: #013159;
+}
+/*# sourceMappingURL=login.css.map */
